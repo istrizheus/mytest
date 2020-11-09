@@ -1,6 +1,3 @@
-mytest
-======
-
-test test test
-===
-Тестовый текст ни о чем.
+Test file
+**bold line**
+*italic line*
